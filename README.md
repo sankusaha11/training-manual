@@ -5,7 +5,7 @@
 Welcome to the GitHub Training Manual repository. In this repository, you will find the content used by the [GitHub Professional Services](https://services.github.com/) team during our official GitHub training courses and the scripts used when teaching.
 
 The content is all written in [Markdown](https://guides.github.com/features/mastering-markdown/), and the scripts are shell scripts.
-
+This is Sanku Saha
 ## Technologies used
 
 This manual is served using GitHub Pages and [docsify](https://docsify.js.org), and can be found at [githubtraining.github.io/training-manual](https://githubtraining.github.io/training-manual/#/).
